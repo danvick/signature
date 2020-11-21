@@ -56,3 +56,4 @@ var _signatureCanvas = Signature(
 * Contributions are welcome!
 * If you want to contribute code please create a PR
 * If you find a bug or want a feature, please fill an issue
+*  Something else
